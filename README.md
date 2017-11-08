@@ -3,11 +3,7 @@ My own version of RevealJS. Based on the awesome [Reveal JS](https://github.com/
 
 - [Demo](http://raybo.org/rayveal)
 
-
-
-[![Watch the video](http://img.youtube.com/vi/S53U5x_4tBM/0.jpg)](http://youtu.be/S53U5x_4tBM)
-
-
+[![Watch the video](https://img.youtube.com/vi/S53U5x_4tBM/0.jpg)](http://www.youtube.com/watch?v=S53U5x_4tBM)
 
 ## Installation
 Pretty much like installing RevealJS.
